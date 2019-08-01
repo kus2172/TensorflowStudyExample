@@ -1,5 +1,5 @@
 # Tensorflow Study Example
-이제내꺼
+이제내꺼 다잉 뿌잉뿌잉 KDU
 # Version Info
 * Python3.6
 * Tensorflow1.10
