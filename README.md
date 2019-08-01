@@ -1,5 +1,6 @@
 # Tensorflow Study Example
 #dddddddddddddd
+KDU 
 # Version Info
 * Python3.6
 * Tensorflow1.10
