@@ -1,5 +1,7 @@
 # Tensorflow Study Example
 #dddddddddddddd
+
+
 # Version Info
 * Python3.6
 * Tensorflow1.10
